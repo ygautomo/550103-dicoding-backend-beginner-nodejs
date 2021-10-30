@@ -1,0 +1,11 @@
+{
+  "name": "550103-dicoding-backend-beginner-nodejs",
+  "version": "1.0.0",
+  "description": "Dicoding -- Belajar Membuat Aplikasi Back-End untuk Pemula- Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yugo Gautomo",
+  "license": "ISC"
+}
