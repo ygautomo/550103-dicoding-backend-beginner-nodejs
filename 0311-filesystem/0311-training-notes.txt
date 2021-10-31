@@ -1,0 +1,15 @@
+/**
+ * Filename: 0311-training-notes.txt
+ * Course: Dicoding -- Belajar Membuat Aplikasi Back-End untuk Pemula
+ * Description: Module 0311 Dasar-dasar Node.js- Filesystem
+ * Repository: 550103-dicoding-backend-beginner-nodejs
+ * 
+ * Author: Yugo Gautomo
+ * Status: Final November 01, 2021
+ */
+
+Di hari minggu saya akan:
+1. Berolahraga pagi.
+2. Membersihkan halaman rumah.
+3. Menonton film.
+4. Membaca buku Laskar Pelangi.

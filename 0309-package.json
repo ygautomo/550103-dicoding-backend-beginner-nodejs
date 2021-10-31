@@ -8,5 +8,7 @@
   },
   "author": "Yugo Gautomo",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }

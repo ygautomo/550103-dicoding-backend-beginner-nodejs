@@ -1,0 +1,13 @@
+/**
+ * Filename: 0312-article.txt
+ * Course: Dicoding -- Belajar Membuat Aplikasi Back-End untuk Pemula
+ * Description: Module 0312 Dasar-dasar Node.js- Readable Stream
+ * Repository: 550103-dicoding-backend-beginner-nodejs
+ * 
+ * Author: Yugo Gautomo
+ * Status: Final November 01, 2021
+ */
+
+Stream di Node.js
+ 
+Teknik stream merupakan salah satu konsep fundamental yang mendukung aplikasi Node.js bekerja. Teknik ini dapat menangani kasus baca tulis berkas, komunikasi jaringan, atau beban kerja apapun agar dapat berjalan dengan lebih efisien.

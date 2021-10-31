@@ -1,0 +1,62 @@
+[/**
+ * Filename]
+[: 0313-training]
+[-input.txt
+ * C]
+[ourse: Dicoding]
+[ -- Belajar Mem]
+[buat Aplikasi B]
+[ack-End untuk P]
+[emula
+ * Descri]
+[ption: Module 0]
+[313 Dasar-dasar]
+[ Node.js- Writa]
+[ble Stream
+ * R]
+[epository: 5501]
+[03-dicoding-bac]
+[kend-beginner-n]
+[odejs
+ * 
+ * Au]
+[thor: Yugo Gaut]
+[omo
+ * Status: ]
+[Final November ]
+[01, 2021
+ */
+
+ ]
+[Lorem ipsum dol]
+[or sit amet, co]
+[nsectetur adipi]
+[scing elit, sed]
+[ do eiusmod tem]
+[por incididunt ]
+[ut labore et do]
+[lore magna aliq]
+[ua. Ut enim ad ]
+[minim veniam, q]
+[uis nostrud exe]
+[rcitation ullam]
+[co laboris nisi]
+[ ut aliquip ex ]
+[ea commodo cons]
+[equat. Duis aut]
+[e irure dolor i]
+[n reprehenderit]
+[ in voluptate v]
+[elit esse cillu]
+[m dolore eu fug]
+[iat nulla paria]
+[tur. Excepteur ]
+[sint occaecat c]
+[upidatat non pr]
+[oident, sunt in]
+[ culpa qui offi]
+[cia deserunt mo]
+[llit anim id es]
+[t laborum.
+ ]
+[null]

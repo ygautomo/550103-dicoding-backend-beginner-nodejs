@@ -1,0 +1,18 @@
+/**
+ * Filename: 0306-globalobject.txt
+ * Course: Dicoding -- Belajar Membuat Aplikasi Back-End untuk Pemula
+ * Description: Module 0306 Dasar-dasar Node.js- Node.js Global Object
+ * Repository: 550103-dicoding-backend-beginner-nodejs
+ * Reference:
+ *   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+ *   - https://javascript.info/
+ *   - https://nodejs.org/dist/latest-v17.x/docs/api/documentation.html
+ *
+ * Author: Yugo Gautomo
+ * Status: Final November 01, 2021
+ */
+
+// Running command
+// node
+// Object.getOwnPropertyNames(global);
+// Object.getOwnPropertyNames([global/process/console/setTimeout/clearTimeout/setInterval/clearInterval]);
