@@ -1,0 +1,17 @@
+/**
+ * Filename: 0211-reference.txt
+ * Course: Dicoding -- 01 Backend Developer Path- 03 Belajar Membuat Aplikasi Back-End untuk Pemula
+ * Description: Module 0211 Pengenalan ke Back-End- Daftar Referensi
+ * Directory: D:\04 Work\03 Training Course\55 Dicoding\01 Backend Developer Path\03 Course -- Back End Beginners
+ * Reference Link: https://www.dicoding.com/academies/261/tutorials/14182
+ * Repository: 550103-dicoding-01-nodejs
+ * 
+ * Author: Yugo Gautomo
+ * Status: Final April 01, 2022
+ */
+
+Reference:
+- Paessler, Server - Definition and details (https://www.paessler.com/it-explained/server)
+- IBM, IBM Knowledge Center (https://www.ibm.com/support/knowledgecenter/SSGMCP_5.3.0/com.ibm.cics.ts.internet.doc/topics/dfhtl21.html)
+- IBM, IBM Knowledge Center (https://www.ibm.com/support/knowledgecenter/SSGMCP_5.3.0/com.ibm.cics.ts.internet.doc/topics/dfhtl22.html)
+- Badger, Everything curl (https://everything.curl.dev/project/name)
